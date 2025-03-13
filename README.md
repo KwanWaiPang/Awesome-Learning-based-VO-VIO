@@ -70,7 +70,6 @@
 
 
 ## Other Resource
-* [Paper Survey——Deep IMU-Bias Inference](https://kwanwaipang.github.io/Deep-IMU-Bias/)
 * [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)
 
 
