@@ -50,6 +50,7 @@
 |2024|`ICRA`|[DVI-SLAM: A dual visual inertial SLAM network](https://arxiv.org/pdf/2309.13814)|[![Github stars](https://img.shields.io/github/stars/mingyuyng/Visual-Selective-VIO.svg)](https://github.com/mingyuyng/Visual-Selective-VIO)|---|
 |2023|`ICRA`|[Bamf-slam: bundle adjusted multi-fisheye visual-inertial slam using recurrent field transforms](https://arxiv.org/pdf/2306.01173)|---|---|
 |2022|`ECCV`|[Efficient deep visual and inertial odometry with adaptive visual modality selection](https://arxiv.org/pdf/2205.06187)|---|---|
+|2019|`CVPR`|[Selective sensor fusion for neural visual-inertial odometry](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.pdf)|---|---|
 |2019|`IROS`|[Deepvio: Self-supervised deep learning of monocular visual inertial odometry using 3d geometric constraints](https://arxiv.org/pdf/1906.11435)|---|---| 
 |2017|`AAAI`|[Vinet: Visual-inertial odometry as a sequence-to-sequence learning problem](https://arxiv.org/pdf/1701.08376)|[![Github stars](https://img.shields.io/github/stars/HTLife/VINet.svg)](https://github.com/HTLife/VINet)|---|
 
