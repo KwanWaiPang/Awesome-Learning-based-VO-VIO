@@ -62,6 +62,7 @@
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability](https://arxiv.org/pdf/2501.15659)|[![Github stars](https://img.shields.io/github/stars/Air-IO/Air-IO.svg)](https://github.com/Air-IO/Air-IO)|[website](https://air-io.github.io/)<br>[Test](https://kwanwaipang.github.io/AirIO/)|
+*|2024|`TIV`|[Deep learning for inertial positioning: A survey](https://arxiv.org/pdf/2303.03757)|---|---|
 |2023|`arXiv`|[AirIMU: Learning uncertainty propagation for inertial odometry](https://arxiv.org/pdf/2310.04874)|[![Github stars](https://img.shields.io/github/stars/haleqiu/AirIMU.svg)](https://github.com/haleqiu/AirIMU)|[website](https://airimu.github.io/)<br>[Test](https://kwanwaipang.github.io/AirIMU/)|
 |2023|`RAL`|[Learned inertial odometry for autonomous drone racing](https://arxiv.org/pdf/2210.15287)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/learned_inertial_model_odometry.svg)](https://github.com/uzh-rpg/learned_inertial_model_odometry)|---|
 |2022|`ICRA`|[Improved state propagation through AI-based pre-processing and down-sampling of high-speed inertial data](https://www.aau.at/wp-content/uploads/2022/03/imu_preprocessing.pdf)|---|---|
