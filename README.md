@@ -35,8 +35,9 @@
 |2024|`arXiv`|[DEIO: Deep Event Inertial Odometry](https://arxiv.org/pdf/2411.03928)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/DEIO.svg)](https://github.com/arclab-hku/DEIO)|[website](https://kwanwaipang.github.io/DEIO/)|
 |2024|`CVPR`|[Adaptive vio: Deep visual-inertial odometry with online continual learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_Adaptive_VIO_Deep_Visual-Inertial_Odometry_with_Online_Continual_Learning_CVPR_2024_paper.pdf)|---|---|
 |2024|`RAL`|[DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping](https://arxiv.org/pdf/2403.13714)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/DBA-Fusion.svg)](https://github.com/GREAT-WHU/DBA-Fusion)|---|
-|2024|`ICRA`|[DVI-SLAM: A dual visual inertial SLAM network](https://arxiv.org/pdf/2309.13814)|---|---|
+|2024|`ICRA`|[DVI-SLAM: A dual visual inertial SLAM network](https://arxiv.org/pdf/2309.13814)|[![Github stars](https://img.shields.io/github/stars/mingyuyng/Visual-Selective-VIO.svg)](https://github.com/mingyuyng/Visual-Selective-VIO)|---|
 |2023|`ICRA`|[Bamf-slam: bundle adjusted multi-fisheye visual-inertial slam using recurrent field transforms](https://arxiv.org/pdf/2306.01173)|---|---|
+|2022|`ECCV`|[Efficient deep visual and inertial odometry with adaptive visual modality selection](https://arxiv.org/pdf/2205.06187)|---|---|
 |2019|`IROS`|[Deepvio: Self-supervised deep learning of monocular visual inertial odometry using 3d geometric constraints](https://arxiv.org/pdf/1906.11435)|---|---| 
 |2017|`AAAI`|[Vinet: Visual-inertial odometry as a sequence-to-sequence learning problem](https://arxiv.org/pdf/1701.08376)|[![Github stars](https://img.shields.io/github/stars/HTLife/VINet.svg)](https://github.com/HTLife/VINet)|---|
 
