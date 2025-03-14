@@ -80,5 +80,12 @@
 ## Other Resource
 * [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)
 
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2019|`CVPR`|[Projective manifold gradient layer for deep rotation regression](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Projective_Manifold_Gradient_Layer_for_Deep_Rotation_Regression_CVPR_2022_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/JYChen18/RPMG.svg)](https://github.com/JYChen18/RPMG)|Better learn rotations|
+
+
 
 
