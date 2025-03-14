@@ -43,6 +43,7 @@
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`TRO`|[Airslam: An efficient and illumination-robust point-line visual slam system](https://arxiv.org/pdf/2408.03520)| [![Github stars](https://img.shields.io/github/stars/sair-lab/AirSLAM.svg)](https://github.com/sair-lab/AirSLAM)|---|
 |2024|`arXiv`|[SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames](https://arxiv.org/pdf/2412.01500)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/SF-Loc.svg)](https://github.com/GREAT-WHU/SF-Loc)|[test](https://kwanwaipang.github.io/SF-Loc/)|
 |2024|`arXiv`|[DEIO: Deep Event Inertial Odometry](https://arxiv.org/pdf/2411.03928)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/DEIO.svg)](https://github.com/arclab-hku/DEIO)|[website](https://kwanwaipang.github.io/DEIO/)|
 |2024|`CVPR`|[Adaptive vio: Deep visual-inertial odometry with online continual learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Pan_Adaptive_VIO_Deep_Visual-Inertial_Odometry_with_Online_Continual_Learning_CVPR_2024_paper.pdf)|---|---|
