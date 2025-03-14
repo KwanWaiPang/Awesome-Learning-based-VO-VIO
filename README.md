@@ -16,6 +16,7 @@
 |2024|`3DV`|[Deep event visual odometry](https://arxiv.org/pdf/2312.09800)|[![Github stars](https://img.shields.io/github/stars/tum-vision/DEVO.svg)](https://github.com/tum-vision/DEVO)|---|
 |2024|`ECCV`|[Deep patch visual slam](https://arxiv.org/pdf/2408.01654)|[![Github stars](https://img.shields.io/github/stars/princeton-vl/DPVO.svg)](https://github.com/princeton-vl/DPVO)|---|
 |2024|`NIPS`|[Deep patch visual odometry](https://proceedings.neurips.cc/paper_files/paper/2023/file/7ac484b0f1a1719ad5be9aa8c8455fbb-Paper-Conference.pdf)|[![Github stars](https://img.shields.io/github/stars/princeton-vl/DPVO.svg)](https://github.com/princeton-vl/DPVO)|---|
+|2022|`Sensor`|[Raum-vo: Rotational adjusted unsupervised monocular visual odometry](https://www.mdpi.com/1424-8220/22/7/2651)|---|---|
 |2022|`Neurocomputing`|[DeepAVO: Efficient pose refining with feature distilling for deep Visual Odometry](https://arxiv.org/pdf/2105.09899)|---|---| 
 |2021|`CoRL`|[Tartanvo: A generalizable learning-based vo](https://proceedings.mlr.press/v155/wang21h/wang21h.pdf)|[![Github stars](https://img.shields.io/github/stars/castacks/tartanvo.svg)](https://github.com/castacks/tartanvo)|---|
 |2021|`NIPS`|[DROID-SLAM: Deep Visual SLAM for Monocular,Stereo, and RGB-D Cameras](https://proceedings.neurips.cc/paper/2021/file/89fcd07f20b6785b92134bd6c1d0fa42-Paper.pdf)|[![Github stars](https://img.shields.io/github/stars/princeton-vl/DROID-SLAM.svg)](https://github.com/princeton-vl/DROID-SLAM)|---|
