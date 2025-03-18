@@ -1,4 +1,21 @@
-# Paper Survey for Learning-based VO, VIO, and IO
+<p align="center">
+  <h1 align="center">
+  Awesome Learning-based VO, VIO, and IO
+  </h1>
+</p>
+
+This repository contains a curated list of resources addressing Learning-based visual odometry, visual-inertial odometry, and inertial odometry
+
+If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO/issues/new)**. 
+
+Contributions in any form to make this list more comprehensive are welcome.
+
+If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+
+Feel free to share this list with others!
+
+# Overview
+
 - [Learning-based VO](#Learning-based-VO)
 - [Learning-based VIO](#Learning-based-VIO)
 - [Learning-based IO](#Learning-based-IO)
