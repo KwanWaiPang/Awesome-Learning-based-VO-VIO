@@ -27,6 +27,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`CVPR`|[Leap-vo: Long-term effective any point tracking for visual odometry](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LEAP-VO_Long-term_Effective_Any_Point_Tracking_for_Visual_Odometry_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/chiaki530/leapvo.svg)](https://github.com/chiaki530/leapvo)|[website](https://chiaki530.github.io/projects/leapvo/)|
 |2024|`RAL`|[Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning](https://arxiv.org/pdf/2408.17005)|[![Github stars](https://img.shields.io/github/stars/ShuyangUni/drl_exposure_ctrl.svg)](https://github.com/ShuyangUni/drl_exposure_ctrl)|---| 
 |2024|`ECCV`|[Reinforcement learning meets visual odometry](https://arxiv.org/pdf/2407.15626)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rl_vo.svg)](https://github.com/uzh-rpg/rl_vo)|[Blog](https://kwanwaipang.github.io/RL-for-VO/)|
 |2024|`IROS`|[Deep Visual Odometry with Events and Frames](https://arxiv.org/pdf/2309.09947)|[![Github stars](https://img.shields.io/github/stars/uzh-rpg/rampvo.svg)](https://github.com/uzh-rpg/rampvo)|---| 
