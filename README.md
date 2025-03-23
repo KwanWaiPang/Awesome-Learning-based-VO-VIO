@@ -104,7 +104,7 @@ Feel free to share this list with others!
 * [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)
 * [Blog for Learning-based VO and VIO](https://kwanwaipang.github.io/Learning-based-VO-VIO/)
 * [Blog for Deep IMU-Bias Inference](https://kwanwaipang.github.io/Deep-IMU-Bias/)
-* Some related paper for learning-based VO,VIO, such as dataset, depth estimation, etc.
+* Some related papers for learning-based VO,VIO, such as dataset, depth estimation, etc.
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
