@@ -64,6 +64,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`Robotics and Autonomous Systems`|[CUAHN-VIO: Content-and-uncertainty-aware homography network for visual-inertial odometry](https://www.sciencedirect.com/science/article/pii/S0921889024002501)|---|---|
 |2025|`TRO`|[Airslam: An efficient and illumination-robust point-line visual slam system](https://arxiv.org/pdf/2408.03520)| [![Github stars](https://img.shields.io/github/stars/sair-lab/AirSLAM.svg)](https://github.com/sair-lab/AirSLAM)|---|
 |2024|`arXiv`|[SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames](https://arxiv.org/pdf/2412.01500)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/SF-Loc.svg)](https://github.com/GREAT-WHU/SF-Loc)|[test](https://kwanwaipang.github.io/SF-Loc/)|
 |2024|`arXiv`|[DEIO: Deep Event Inertial Odometry](https://arxiv.org/pdf/2411.03928)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/DEIO.svg)](https://github.com/arclab-hku/DEIO)|[website](https://kwanwaipang.github.io/DEIO/)|
