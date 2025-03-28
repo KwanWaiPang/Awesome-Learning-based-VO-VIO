@@ -105,12 +105,13 @@ Feel free to share this list with others!
 * [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)
 * [Blog for Learning-based VO and VIO](https://kwanwaipang.github.io/Learning-based-VO-VIO/)
 * [Blog for Deep IMU-Bias Inference](https://kwanwaipang.github.io/Deep-IMU-Bias/)
-* Some related papers for learning-based VO,VIO, such as dataset, depth estimation, etc.
+* Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning](https://arxiv.org/pdf/2503.17938)|---|Mamba two-view correspondence|
 |2024|`TPAMI`|[Metric3d v2: A versatile monocular geometric foundation model for zero-shot metric depth and surface normal estimation](https://arxiv.org/pdf/2404.15506)|[![Github stars](https://img.shields.io/github/stars/YvanYin/Metric3D.svg)](https://github.com/YvanYin/Metric3D)|[website](https://jugghm.github.io/Metric3Dv2/)<br>depth estimation|
 |2022|`NIPS`|[Theseus: A library for differentiable nonlinear optimization](https://proceedings.neurips.cc/paper_files/paper/2022/file/185969291540b3cd86e70c51e8af5d08-Paper-Conference.pdf)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/theseus.svg)](https://github.com/facebookresearch/theseus)|[website](https://sites.google.com/view/theseus-ai/)|
 |2020|`CVPR`|[Superglue: Learning feature matching with graph neural networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/magicleap/SuperGluePretrainedNetwork.svg)](https://github.com/magicleap/SuperGluePretrainedNetwork)|---|
