@@ -121,6 +121,7 @@ Feel free to share this list with others!
 |2019|`CVPR`|[Projective manifold gradient layer for deep rotation regression](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Projective_Manifold_Gradient_Layer_for_Deep_Rotation_Regression_CVPR_2022_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/JYChen18/RPMG.svg)](https://github.com/JYChen18/RPMG)|Better learn rotations|
 |2018|`ECCV`|[Mvsnet: Depth inference for unstructured multi-view stereo](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Yao_MVSNet_Depth_Inference_ECCV_2018_paper.pdf)|---|---|
 |2018|`CVPR`|[Superpoint: Self-supervised interest point detection and description](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/rpautrat/SuperPoint.svg)](https://github.com/rpautrat/SuperPoint)|[pytorch version](https://github.com/eric-yyjau/pytorch-superpoint)<br>[event superpoint](https://github.com/mingyip/pytorch-superpoint)|
+|2016|`CVPR`|[Structure-from-motion revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/colmap/colmap.svg)](https://github.com/colmap/colmap)|COLMAP|
 |2015|`ICCV`|[Flownet: Learning optical flow with convolutional networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)|---|---|
 
 
