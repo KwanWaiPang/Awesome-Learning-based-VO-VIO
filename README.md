@@ -66,6 +66,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry](https://arxiv.org/pdf/2503.22963)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/SuperEIO.svg)](https://github.com/arclab-hku/SuperEIO)|[website](https://arclab-hku.github.io/SuperEIO/)|
 |2025|`Robotics and Autonomous Systems`|[CUAHN-VIO: Content-and-uncertainty-aware homography network for visual-inertial odometry](https://www.sciencedirect.com/science/article/pii/S0921889024002501)|[![Github stars](https://img.shields.io/github/stars/tudelft/CUAHN-VIO.svg)](https://github.com/tudelft/CUAHN-VIO)|---|
 |2025|`TRO`|[Airslam: An efficient and illumination-robust point-line visual slam system](https://arxiv.org/pdf/2408.03520)| [![Github stars](https://img.shields.io/github/stars/sair-lab/AirSLAM.svg)](https://github.com/sair-lab/AirSLAM)|---|
 |2024|`arXiv`|[SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames](https://arxiv.org/pdf/2412.01500)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/SF-Loc.svg)](https://github.com/GREAT-WHU/SF-Loc)|[test](https://kwanwaipang.github.io/SF-Loc/)|
