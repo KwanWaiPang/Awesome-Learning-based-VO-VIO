@@ -66,6 +66,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection](https://arxiv.org/pdf/2504.00139)|[![Github stars](https://img.shields.io/github/stars/smartroboticslab/SuperEvent.svg)](https://github.com/smartroboticslab/SuperEvent)|[website](https://smartroboticslab.github.io/SuperEvent/)| 
 |2025|`arXiv`|[SuperEIO: Self-Supervised Event Feature Learning for Event Inertial Odometry](https://arxiv.org/pdf/2503.22963)|[![Github stars](https://img.shields.io/github/stars/arclab-hku/SuperEIO.svg)](https://github.com/arclab-hku/SuperEIO)|[website](https://arclab-hku.github.io/SuperEIO/)|
 |2025|`Robotics and Autonomous Systems`|[CUAHN-VIO: Content-and-uncertainty-aware homography network for visual-inertial odometry](https://www.sciencedirect.com/science/article/pii/S0921889024002501)|[![Github stars](https://img.shields.io/github/stars/tudelft/CUAHN-VIO.svg)](https://github.com/tudelft/CUAHN-VIO)|---|
 |2025|`TRO`|[Airslam: An efficient and illumination-robust point-line visual slam system](https://arxiv.org/pdf/2408.03520)| [![Github stars](https://img.shields.io/github/stars/sair-lab/AirSLAM.svg)](https://github.com/sair-lab/AirSLAM)|---|
