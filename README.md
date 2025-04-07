@@ -110,7 +110,7 @@ Feel free to share this list with others!
 * Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) 
 * Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
 * Survey for NeRF-based SLAM：[Blog](https://blog.csdn.net/gwplovekimi/article/details/135083274)
-* Survey for 3DGS-based SLAM: [Blog](https://kwanwaipang.github.io/File/Blogs/Poster/survey_3DGS_SLAM.html)
+* Survey for 3DGS-based SLAM: [Blog](https://kwanwaipang.github.io/3DGS-SLAM/)
 * Survey for Deep IMU-Bias Inference [Blog](https://kwanwaipang.github.io/Deep-IMU-Bias/)
 * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/)
 * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/)
