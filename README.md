@@ -55,6 +55,7 @@ Feel free to share this list with others!
 |2019|`ICRA`|[Ganvo: Unsupervised deep monocular visual odometry and depth estimation with generative adversarial networks](https://arxiv.org/pdf/1809.05786)|---|---|
 |2019|`CVPR`|[Recurrent neural network for (un-) supervised learning of monocular video visual odometry and depth](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Recurrent_Neural_Network_for_Un-Supervised_Learning_of_Monocular_Video_Visual_CVPR_2019_paper.pdf)|-|-| 
 |2019|`ICRA`|[Pose graph optimization for unsupervised monocular visual odometry](https://arxiv.org/pdf/1903.06315)|---|---|
+|2018|`IJRR`|[End-to-end, sequence-to-sequence probabilistic visual odometry through deep neural networks](https://journals.sagepub.com/doi/pdf/10.1177/0278364917734298)|---|---| 
 |2018|`CVPR`|[Unsupervised learning of monocular depth estimation and visual odometry with deep feature reconstruction](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/Huangying-Zhan/Depth-VO-Feat.svg)](https://github.com/Huangying-Zhan/Depth-VO-Feat)|---|
 |2018|`ICRA`|[Undeepvo: Monocular visual odometry through unsupervised deep learning](https://arxiv.org/pdf/1709.06841)|-|[website](https://senwang.gitlab.io/UnDeepVO/)|
 |2017|`ICRA`|[Deepvo: Towards end-to-end visual odometry with deep recurrent convolutional neural networks](https://arxiv.org/pdf/1709.08429)|-|[website](https://senwang.gitlab.io/DeepVO/)|
