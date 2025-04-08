@@ -59,7 +59,7 @@ Feel free to share this list with others!
 |2018|`ICRA`|[Undeepvo: Monocular visual odometry through unsupervised deep learning](https://arxiv.org/pdf/1709.06841)|-|[website](https://senwang.gitlab.io/UnDeepVO/)|
 |2017|`ICRA`|[Deepvo: Towards end-to-end visual odometry with deep recurrent convolutional neural networks](https://arxiv.org/pdf/1709.08429)|-|[website](https://senwang.gitlab.io/DeepVO/)|
 |2017|`CVPR`|[Unsupervised learning of depth and ego-motion from video](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Unsupervised_Learning_of_CVPR_2017_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/tinghuiz/SfMLearner.svg)](https://github.com/tinghuiz/SfMLearner)|---|
-|2015|`RAL`|[Exploring representation learning with cnns for frame-to-frame ego-motion estimation](https://www.academia.edu/download/52812652/Deep_VO.pdf)|---|---|
+|2015|`RAL`|[Exploring representation learning with cnns for frame-to-frame ego-motion estimation](https://ieeexplore.ieee.org/abstract/document/7347378/)|---|---|
 
 
 ## Learning-based VIO
