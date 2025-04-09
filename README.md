@@ -27,7 +27,6 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`CVPR`|[WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/pdf/2504.03886)|[![Github stars](https://img.shields.io/github/stars/GradientSpaces/WildGS-SLAM.svg)](https://github.com/GradientSpaces/WildGS-SLAM)|[website](https://wildgs-slam.github.io/)|
 |2025|`CVPR`|[Scene-agnostic Pose Regression for Visual Localization](https://arxiv.org/pdf/2503.19543)|[![Github stars](https://img.shields.io/github/stars/JunweiZheng93/SPR.svg)](https://github.com/JunweiZheng93/SPR)|[website](https://junweizheng93.github.io/publications/SPR/SPR.html)<br>Mamba-based|
 |2025|`arXiv`|[Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image](https://arxiv.org/pdf/2503.17358)|---|Velometer|
 |2024|`CVPR`|[Leap-vo: Long-term effective any point tracking for visual odometry](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LEAP-VO_Long-term_Effective_Any_Point_Tracking_for_Visual_Odometry_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/chiaki530/leapvo.svg)](https://github.com/chiaki530/leapvo)|[website](https://chiaki530.github.io/projects/leapvo/)|
