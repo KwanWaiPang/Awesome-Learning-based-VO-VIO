@@ -19,6 +19,7 @@ Feel free to share this list with others!
 - [Learning-based VO](#Learning-based-VO)
 - [Learning-based VIO](#Learning-based-VIO)
 - [Learning-based IO](#Learning-based-IO)
+- [Learning-based LIO](#Learning-based-LIO)
 
 ## Learning-based VO
 
@@ -105,6 +106,14 @@ Feel free to share this list with others!
 |2022|`RAL`|[Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs](https://arxiv.org/pdf/2211.04517)|---|---|
 |2021|`ICRA`|[IMU Data Processing For Inertial Aided Navigation:A Recurrent Neural Network Based Approach](https://arxiv.org/pdf/2103.14286)|---|---|
 
+## Learning-based LIO
+
+or learning-based LIVO
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[LIR-LIVO: A Lightweight, Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features](https://arxiv.org/pdf/2502.08676)|[![Github stars](https://img.shields.io/github/stars/IF-A-CAT/LIR-LIVO.svg)](https://github.com/IF-A-CAT/LIR-LIVO)|Fast-LIVO+AirSLAM| 
 
 
 ## Other Related Resource
