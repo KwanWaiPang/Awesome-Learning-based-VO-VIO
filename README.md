@@ -30,6 +30,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`CVPR`|[Scene-agnostic Pose Regression for Visual Localization](https://arxiv.org/pdf/2503.19543)|[![Github stars](https://img.shields.io/github/stars/JunweiZheng93/SPR.svg)](https://github.com/JunweiZheng93/SPR)|[website](https://junweizheng93.github.io/publications/SPR/SPR.html)<br>Mamba-based|
 |2025|`arXiv`|[Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image](https://arxiv.org/pdf/2503.17358)|---|Velometer|
+|2024|`RAL`|[Salient sparse visual odometry with pose-only supervision](https://arxiv.org/pdf/2404.04677)|---|---| 
 |2024|`RAL`|[CodedVO: Coded Visual Odometry](https://arxiv.org/pdf/2407.18240)|[![Github stars](https://img.shields.io/github/stars/naitri/CodedVO.svg)](https://github.com/naitri/CodedVO)|[website](https://prg.cs.umd.edu/CodedVO)|
 |2024|`CVPR`|[Leap-vo: Long-term effective any point tracking for visual odometry](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LEAP-VO_Long-term_Effective_Any_Point_Tracking_for_Visual_Odometry_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/chiaki530/leapvo.svg)](https://github.com/chiaki530/leapvo)|[website](https://chiaki530.github.io/projects/leapvo/)|
 |2024|`RAL`|[Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning](https://arxiv.org/pdf/2408.17005)|[![Github stars](https://img.shields.io/github/stars/ShuyangUni/drl_exposure_ctrl.svg)](https://github.com/ShuyangUni/drl_exposure_ctrl)|---| 
