@@ -143,6 +143,7 @@ or learning-based LIVO
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[![Github stars](https://img.shields.io/github/stars/stilcrad/DenseAffine.svg)](https://github.com/stilcrad/DenseAffine)|Matching/Correspondences| 
 |2025|`CVPR`|[MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion](https://demuc.de/papers/pataki2025mpsfm.pdf)|[![Github stars](https://img.shields.io/github/stars/cvg/mpsfm.svg)](https://github.com/cvg/mpsfm)|---|
 |2025|`arXiv`|[Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning](https://arxiv.org/pdf/2503.17938)|---|Mamba two-view correspondence|
 |2024|`TPAMI`|[Metric3d v2: A versatile monocular geometric foundation model for zero-shot metric depth and surface normal estimation](https://arxiv.org/pdf/2404.15506)|[![Github stars](https://img.shields.io/github/stars/YvanYin/Metric3D.svg)](https://github.com/YvanYin/Metric3D)|[website](https://jugghm.github.io/Metric3Dv2/)<br>depth estimation|
