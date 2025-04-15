@@ -113,6 +113,7 @@ Feel free to share this list with others!
 |2022|`RAL`|[Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs](https://arxiv.org/pdf/2211.04517)|---|---|
 |2021|`ICRA`|[IMU Data Processing For Inertial Aided Navigation:A Recurrent Neural Network Based Approach](https://arxiv.org/pdf/2103.14286)|---|---|
 |2020|`RAL`|[Tlio: Tight learned inertial odometry](https://arxiv.org/pdf/2007.01867)|[![Github stars](https://img.shields.io/github/stars/CathIAS/TLIO.svg)](https://github.com/CathIAS/TLIO)|[website](https://cathias.github.io/TLIO/)| 
+|2020|`TIV`|[AI-IMU dead-reckoning](https://arxiv.org/pdf/1904.06064)|[![Github stars](https://img.shields.io/github/stars/mbrossar/ai-imu-dr.svg)](https://github.com/mbrossar/ai-imu-dr)|---| 
 
 ## Learning-based LIO
 
