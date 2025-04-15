@@ -112,6 +112,7 @@ Feel free to share this list with others!
 |2022|`ICRA`|[Improved state propagation through AI-based pre-processing and down-sampling of high-speed inertial data](https://www.aau.at/wp-content/uploads/2022/03/imu_preprocessing.pdf)|---|---|
 |2022|`RAL`|[Deep IMU Bias Inference for Robust Visual-Inertial Odometry with Factor Graphs](https://arxiv.org/pdf/2211.04517)|---|---|
 |2021|`ICRA`|[IMU Data Processing For Inertial Aided Navigation:A Recurrent Neural Network Based Approach](https://arxiv.org/pdf/2103.14286)|---|---|
+|2020|`RAL`|[Tlio: Tight learned inertial odometry](https://arxiv.org/pdf/2007.01867)|[![Github stars](https://img.shields.io/github/stars/CathIAS/TLIO.svg)](https://github.com/CathIAS/TLIO)|[website](https://cathias.github.io/TLIO/)| 
 
 ## Learning-based LIO
 
