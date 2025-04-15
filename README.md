@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">
-  Awesome Learning-based VO, VIO, and IO
+  Awesome Learning-based Odometry
   </h1>
 </p>
 
