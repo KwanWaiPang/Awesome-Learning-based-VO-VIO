@@ -139,6 +139,7 @@ or learning-based LO, learning-based LIVO
 * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/)
 * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
 * Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
+* Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
