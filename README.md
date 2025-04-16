@@ -147,7 +147,7 @@ or learning-based LO, learning-based LIVO
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`CVPR`|[DEFOM-Stereo: Depth Foundation Model Based Stereo Matching](https://arxiv.org/pdf/2501.09466)|[![Github stars](https://img.shields.io/github/stars/Insta360-Research-Team/DEFOM-Stereo.svg)](https://github.com/Insta360-Research-Team/DEFOM-Stereo)|---|
+|2025|`CVPR`|[DEFOM-Stereo: Depth Foundation Model Based Stereo Matching](https://arxiv.org/pdf/2501.09466)|[![Github stars](https://img.shields.io/github/stars/Insta360-Research-Team/DEFOM-Stereo.svg)](https://github.com/Insta360-Research-Team/DEFOM-Stereo)|[website](https://insta360-research-team.github.io/DEFOM-Stereo/)|
 |2025|`arXiv`|[To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition](https://arxiv.org/pdf/2504.06116)|---|Matching|
 |2025|`CVPR`|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[![Github stars](https://img.shields.io/github/stars/stilcrad/DenseAffine.svg)](https://github.com/stilcrad/DenseAffine)|Matching/Correspondences| 
 |2025|`CVPR`|[MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion](https://demuc.de/papers/pataki2025mpsfm.pdf)|[![Github stars](https://img.shields.io/github/stars/cvg/mpsfm.svg)](https://github.com/cvg/mpsfm)|---|
