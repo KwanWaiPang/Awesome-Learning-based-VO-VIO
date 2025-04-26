@@ -148,6 +148,7 @@ or learning-based LO, learning-based LIVO
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[![Github stars](https://img.shields.io/github/stars/HITCSC/EdgePoint2.svg)](https://github.com/HITCSC/EdgePoint2)|---| 
 |2025|`arXiv`|[To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition](https://arxiv.org/pdf/2504.06116)|---|Matching|
 |2025|`CVPR`|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[![Github stars](https://img.shields.io/github/stars/stilcrad/DenseAffine.svg)](https://github.com/stilcrad/DenseAffine)|Matching/Correspondences| 
 |2025|`CVPR`|[MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion](https://demuc.de/papers/pataki2025mpsfm.pdf)|[![Github stars](https://img.shields.io/github/stars/cvg/mpsfm.svg)](https://github.com/cvg/mpsfm)|---|
