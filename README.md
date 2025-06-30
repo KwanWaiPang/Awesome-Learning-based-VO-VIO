@@ -134,8 +134,6 @@ or learning-based LO, learning-based LIVO
 
 
 
-
-
 ## Other Related Resource
 * Survey for SLAM in Legged Robot：[Paper List](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) 
 * Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) 
