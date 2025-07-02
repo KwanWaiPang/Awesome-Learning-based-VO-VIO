@@ -18,8 +18,8 @@ Feel free to share this list with others!
 
 - [Learning-based VO](#Learning-based-VO)
 - [Learning-based VIO](#Learning-based-VIO)
-- [Learning-based IO](#Learning-based-IO)
-- [Learning-based LIO](#Learning-based-LIO)
+- [Learning-based Inertial Odometry](#Learning-based-Inertial-Odometry)
+- [Learning-based LiDAR Odometry](#Learning-based-LiDAR-Odometry)
 
 
 ## Learning-based VO
@@ -124,9 +124,8 @@ Feel free to share this list with others!
 |2020|`RAL`|[Tlio: Tight learned inertial odometry](https://arxiv.org/pdf/2007.01867)|[![Github stars](https://img.shields.io/github/stars/CathIAS/TLIO.svg)](https://github.com/CathIAS/TLIO)|[website](https://cathias.github.io/TLIO/)| 
 |2020|`TIV`|[AI-IMU dead-reckoning](https://arxiv.org/pdf/1904.06064)|[![Github stars](https://img.shields.io/github/stars/mbrossar/ai-imu-dr.svg)](https://github.com/mbrossar/ai-imu-dr)|---| 
 
-## Learning-based LIO
+## Learning-based LiDAR Odometry
 
-or learning-based LO, learning-based LIVO
 * Survey for Awesome Learning-based LiDAR Odometry [Blog](https://kwanwaipang.github.io/Awesome-Learning-based-LiDAR-Odometry/)
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
