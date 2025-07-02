@@ -105,7 +105,7 @@ Feel free to share this list with others!
 |2017|`AAAI`|[Vinet: Visual-inertial odometry as a sequence-to-sequence learning problem](https://arxiv.org/pdf/1701.08376)|[![Github stars](https://img.shields.io/github/stars/HTLife/VINet.svg)](https://github.com/HTLife/VINet)|non-official implementation|
 
 
-## Learning-based IO
+## Learning-based Inertial Odometry
 
 * Survey for Deep IMU-Bias Inference [Blog](https://kwanwaipang.github.io/Deep-IMU-Bias/)
 
