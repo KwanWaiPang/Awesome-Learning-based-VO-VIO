@@ -24,6 +24,7 @@ Feel free to share this list with others!
 
 ## Learning-based VO
 
+* Survey for Awesome Learning-based VO and VIO [Blog](https://kwanwaipang.github.io/Learning-based-VO-VIO/)
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -76,7 +77,7 @@ Feel free to share this list with others!
 
 
 ## Learning-based VIO
-
+* Survey for Awesome Learning-based VO and VIO [Blog](https://kwanwaipang.github.io/Learning-based-VO-VIO/)
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -106,6 +107,8 @@ Feel free to share this list with others!
 
 ## Learning-based IO
 
+* Survey for Deep IMU-Bias Inference [Blog](https://kwanwaipang.github.io/Deep-IMU-Bias/)
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
@@ -124,6 +127,7 @@ Feel free to share this list with others!
 ## Learning-based LIO
 
 or learning-based LO, learning-based LIVO
+* Survey for Awesome Learning-based LiDAR Odometry [Blog](https://kwanwaipang.github.io/Awesome-Learning-based-LiDAR-Odometry/)
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
@@ -140,12 +144,11 @@ or learning-based LO, learning-based LIVO
 * Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
 * Survey for NeRF-based SLAM：[Blog](https://blog.csdn.net/gwplovekimi/article/details/135083274)
 * Survey for 3DGS-based SLAM: [Blog](https://kwanwaipang.github.io/3DGS-SLAM/)
-* Survey for Deep IMU-Bias Inference [Blog](https://kwanwaipang.github.io/Deep-IMU-Bias/)
 * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/)
 * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/)
 * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
-* Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
 * Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
+* Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
