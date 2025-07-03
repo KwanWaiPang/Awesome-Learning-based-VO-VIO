@@ -171,10 +171,10 @@ Feel free to share this list with others!
 * Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
 * Survey for NeRF-based SLAM：[Blog](https://kwanwaipang.github.io/Awesome-NeRF-SLAM/)
 * Survey for 3DGS-based SLAM: [Blog](https://kwanwaipang.github.io/3DGS-SLAM/)
+* Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
 <!-- * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/) -->
 <!-- * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/) -->
 <!--  * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502) -->
-* Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
 * Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
 
 <!-- |---|`arXiv`|---|---|---| -->
@@ -203,7 +203,9 @@ Feel free to share this list with others!
 |2016|`CVPR`|[Structure-from-motion revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/colmap/colmap.svg)](https://github.com/colmap/colmap)|COLMAP|
 |2015|`ICCV`|[Flownet: Learning optical flow with convolutional networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)|---|---|
 
+
 * Some related papers for learning-based LiDAR odometry, such as point cloud registration, etc.
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
