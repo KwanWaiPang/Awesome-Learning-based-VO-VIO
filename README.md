@@ -166,14 +166,14 @@ Feel free to share this list with others!
 
 
 ## Other Related Resource
-* Survey for SLAM in Legged Robot：[Paper List](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) 
+<!-- * Survey for SLAM in Legged Robot：[Paper List](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) -->
 * Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) 
 * Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
 * Survey for NeRF-based SLAM：[Blog](https://kwanwaipang.github.io/Awesome-NeRF-SLAM/)
 * Survey for 3DGS-based SLAM: [Blog](https://kwanwaipang.github.io/3DGS-SLAM/)
-* Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/)
-* Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/)
-* Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502)
+<!-- * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/) -->
+<!-- * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/) -->
+<!--  * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502) -->
 * Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
 * Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
 
