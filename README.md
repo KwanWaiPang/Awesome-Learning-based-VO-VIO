@@ -20,6 +20,7 @@ Feel free to share this list with others!
 - [Learning-based VIO](#Learning-based-VIO)
 - [Learning-based Inertial Odometry](#Learning-based-Inertial-Odometry)
 - [Learning-based LiDAR Odometry](#Learning-based-LiDAR-Odometry)
+- [Other Related Resource](#Other-Related-Resource)
 
 
 ## Learning-based VO
