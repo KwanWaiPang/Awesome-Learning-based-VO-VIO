@@ -202,9 +202,30 @@ Feel free to share this list with others!
 |2016|`CVPR`|[Structure-from-motion revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/colmap/colmap.svg)](https://github.com/colmap/colmap)|COLMAP|
 |2015|`ICCV`|[Flownet: Learning optical flow with convolutional networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)|---|---|
 
+* Some related papers for learning-based LiDAR odometry, such as point cloud registration, etc.
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`arXiv`|[A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration](https://arxiv.org/pdf/2410.10295)|[![Github stars](https://img.shields.io/github/stars/RenlangHuang/CAST.svg)](https://github.com/RenlangHuang/CAST)|---|
+|2020|`CVPR`|[3dregnet: A deep neural network for 3d point registration](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/3DVisionISR/3DRegNet.svg)](https://github.com/3DVisionISR/3DRegNet)|---|
+|2020|`CVPR`|[P2b: Point-to-box network for 3d object tracking in point clouds](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf)|---|---|
+|2019|`CVPR`|[Pointconv: Deep convolutional networks on 3d point clouds](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_PointConv_Deep_Convolutional_Networks_on_3D_Point_Clouds_CVPR_2019_paper.pdf)|---|---|
+|2019|`ICCV`|[Meteornet: Deep learning on dynamic 3d point cloud sequences](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MeteorNet_Deep_Learning_on_Dynamic_3D_Point_Cloud_Sequences_ICCV_2019_paper.pdf)|---|---|
+|2019|`ICCV`|[Deep closest point: Learning representations for point cloud registration](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deep_Closest_Point_Learning_Representations_for_Point_Cloud_Registration_ICCV_2019_paper.pdf)|---|---|
+|2019|`CVPR`|[Pointnetlk: Robust & efficient point cloud registration using pointnet](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aoki_PointNetLK_Robust__Efficient_Point_Cloud_Registration_Using_PointNet_CVPR_2019_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/hmgoforth/PointNetLK.svg)](https://github.com/hmgoforth/PointNetLK)|---|
+|2019|`CVPR`|[3D local features for direct pairwise registration](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf)|---|---|
+|2019|`ICCV`|[Deepvcp: An end-to-end deep neural network for point cloud registration](https://openaccess.thecvf.com/content_ICCV_2019/papers/Lu_DeepVCP_An_End-to-End_Deep_Neural_Network_for_Point_Cloud_Registration_ICCV_2019_paper.pdf)|---|---|
+|2019|`CVPR`|[Flownet3d: Learning scene flow in 3d point clouds](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf)|---|---|
+|2019|`IROS`|[Rangenet++: Fast and accurate lidar semantic segmentation](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf)|---|---|
+|2019|`ACM Transactions on Graphics`|[Dynamic graph cnn for learning on point clouds](https://dl.acm.org/doi/pdf/10.1145/3326362)|---|---|
+|2018|`ECCV`|[3dfeat-net: Weakly supervised local 3d features for point cloud registration](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/yewzijian/3DFeatNet.svg)](https://github.com/yewzijian/3DFeatNet)|---|
+|2017|`NIPS`|[Pointnet++: Deep hierarchical feature learning on point sets in a metric space](https://proceedings.neurips.cc/paper_files/paper/2017/file/d8bf84be3800d12f74d8b05e9b89836f-Paper.pdf)|---|---|
+|2017|`CVPR`|[Pointnet: Deep learning on point sets for 3d classification and segmentation](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf)|---|---|
+|2015|`IROS`|[Voxnet: A 3d convolutional neural network for real-time object recognition](http://graphics.stanford.edu/courses/cs233-21-spring/ReferencedPapers/voxnet_07353481.pdf)|---|---|
 
-
-
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 
 
