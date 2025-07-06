@@ -31,6 +31,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[VOCAL: Visual Odometry via ContrAstive Learning](https://arxiv.org/pdf/2507.00243)|---|---|
 |2025|`RAL`|[Online Adaptive Keypoint Extraction for Visual Odometry Across Different Scenes](https://ieeexplore.ieee.org/abstract/document/11020750/)|---|Reinforcement Learning|
 |2025|`ICRA`|[MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry](https://arxiv.org/pdf/2409.09479)|[![Github stars](https://img.shields.io/github/stars/MAC-VO/MAC-VO.svg)](https://github.com/MAC-VO/MAC-VO)|[website](https://mac-vo.github.io/)| 
 |2025|`arXiv`|[Large-scale visual SLAM for in-the-wild videos](https://arxiv.org/pdf/2504.20496)|---|---|
