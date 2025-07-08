@@ -212,6 +212,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`CVPR`|[Point transformer v3: Simpler faster stronger](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/Pointcept/PointTransformerV3.svg)](https://github.com/Pointcept/PointTransformerV3)|---|
 |2024|`NeurIPS`|[A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration](https://arxiv.org/pdf/2410.10295)|[![Github stars](https://img.shields.io/github/stars/RenlangHuang/CAST.svg)](https://github.com/RenlangHuang/CAST)|---|
 |2020|`CVPR`|[3dregnet: A deep neural network for 3d point registration](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/3DVisionISR/3DRegNet.svg)](https://github.com/3DVisionISR/3DRegNet)|---|
 |2020|`CVPR`|[P2b: Point-to-box network for 3d object tracking in point clouds](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf)|---|---|
