@@ -130,6 +130,7 @@ Feel free to share this list with others!
 ## Learning-based LiDAR Odometry
 
 * Survey for Awesome Learning-based LiDAR Odometry [Blog](https://kwanwaipang.github.io/Awesome-Learning-based-LiDAR-Odometry/)
+* LiDAR-based 3DGS [Paper List](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM/#LiDAR-based-3DGS)
 
  <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
