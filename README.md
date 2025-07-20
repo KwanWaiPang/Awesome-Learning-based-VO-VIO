@@ -104,6 +104,7 @@ Feel free to share this list with others!
 |2021|`IEEE International Conference on Acoustics, Speech and Signal Processing `|[Atvio: Attention guided visual-inertial odometry](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO/blob/pdf/file/ATVIO_Attention_Guided_Visual-Inertial_Odometry.pdf)|---|---|
 |2019|`TPAMI`|[Unsupervised deep visual-inertial odometry with online error correction for RGB-D imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8691513)|---|---|
 |2019|`CVPR`|[Selective sensor fusion for neural visual-inertial odometry](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.pdf)|---|---|
+|2019|`IEEE Global Communications Conference`|[LightVO: Lightweight inertial-assisted monocular visual odometry with dense neural networks](https://mingkunyang.github.io/media/LightVO.pdf)|---|---|
 |2019|`IROS`|[Deepvio: Self-supervised deep learning of monocular visual inertial odometry using 3d geometric constraints](https://arxiv.org/pdf/1906.11435)|---|---| 
 |2017|`AAAI`|[Vinet: Visual-inertial odometry as a sequence-to-sequence learning problem](https://arxiv.org/pdf/1701.08376)|[![Github stars](https://img.shields.io/github/stars/HTLife/VINet.svg)](https://github.com/HTLife/VINet)|non-official implementation|
 
