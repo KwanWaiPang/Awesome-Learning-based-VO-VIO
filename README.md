@@ -10,7 +10,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+If you find this repository useful, a simple star should be the best affirmation. 😊
 
 Feel free to share this list with others!
 
@@ -31,6 +31,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[DINO-VO: A Feature-Based Visual Odometry Leveraging a Visual Foundation Model](https://arxiv.org/pdf/2507.13145)|---|---|
 |2025|`IEEE International Symposium on Circuits and Systems`|[LoSeVO: Local Sequence Constraints for Deep Visual Odometry](https://ieeexplore.ieee.org/abstract/document/11043333/)|---|---|
 |2025|`arXiv`|[VOCAL: Visual Odometry via ContrAstive Learning](https://arxiv.org/pdf/2507.00243)|---|---|
 |2025|`RAL`|[Online Adaptive Keypoint Extraction for Visual Odometry Across Different Scenes](https://ieeexplore.ieee.org/abstract/document/11020750/)|---|Reinforcement Learning|
