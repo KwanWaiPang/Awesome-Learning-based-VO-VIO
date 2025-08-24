@@ -31,6 +31,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[Occlusion-Aware Monocular Visual Odometry for Robust Trajectory Tracking](https://ieeexplore.ieee.org/abstract/document/11123740/)|---|---|
 |2025|`RAL`|[DINO-VO: A Feature-Based Visual Odometry Leveraging a Visual Foundation Model](https://arxiv.org/pdf/2507.13145)|---|---|
 |2025|`IEEE International Symposium on Circuits and Systems`|[LoSeVO: Local Sequence Constraints for Deep Visual Odometry](https://ieeexplore.ieee.org/abstract/document/11043333/)|---|---|
 |2025|`arXiv`|[VOCAL: Visual Odometry via ContrAstive Learning](https://arxiv.org/pdf/2507.00243)|---|---|
