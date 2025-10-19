@@ -31,6 +31,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Real-Time Indoor Object SLAM with LLM-Enhanced Priors](https://arxiv.org/pdf/2509.21602)|---|---|
 |2025|`TIM`|[A Robust and Accurate Stereo SLAM Based on Learned Feature Extraction and Matching](https://ieeexplore.ieee.org/abstract/document/11202432/keywords#keywords)|---|---|
 |2025|`DAGM German Conference on Pattern Recognition`|[CoProU-VO: Combining Projected Uncertainty for End-to-End Unsupervised Monocular Visual Odometry](https://arxiv.org/pdf/2508.00568)|[![Github stars](https://img.shields.io/github/stars/Jchao-Xie/CoProU.svg)](https://github.com/Jchao-Xie/CoProU)|[website](https://jchao-xie.github.io/CoProU/)|
 |2025|`RAL`|[Occlusion-Aware Monocular Visual Odometry for Robust Trajectory Tracking](https://ieeexplore.ieee.org/abstract/document/11123740/)|---|---|
