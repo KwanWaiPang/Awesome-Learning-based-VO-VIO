@@ -147,6 +147,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[MA-SLAM: Active SLAM in Large-Scale Unknown Environment using Map Aware Deep Reinforcement Learning](https://arxiv.org/pdf/2511.14330)|---|---|
 |2025|`IEEE Sensor Journal`|[A Generative Hierarchical Optimization Framework for LiDAR Odometry Using Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11026785/)|---|---|
 |2025|`CVPR`|[DiffLO: Semantic-Aware LiDAR Odometry with Diffusion-Based Refinement](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_DiffLO_Semantic-Aware_LiDAR_Odometry_with_Diffusion-Based_Refinement_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/HyTree7/DiffLO.svg)](https://github.com/HyTree7/DiffLO)|---| 
 |2025|`arXiv`|[LIR-LIVO: A Lightweight, Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features](https://arxiv.org/pdf/2502.08676)|[![Github stars](https://img.shields.io/github/stars/IF-A-CAT/LIR-LIVO.svg)](https://github.com/IF-A-CAT/LIR-LIVO)|Fast-LIVO+AirSLAM|
