@@ -31,6 +31,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM](https://arxiv.org/pdf/2512.01889)|[![Github stars](https://img.shields.io/github/stars/be2rlab/km-vipe.svg)](https://github.com/be2rlab/km-vipe)|---|
 |2025|`TRO`|[Continual Learning of Regions for Efficient Robot Localization on Large Maps](https://ieeexplore.ieee.org/abstract/document/11196045)|[![Github stars](https://img.shields.io/github/stars/MI-BioLab/continual-learning-regions.svg)](https://github.com/MI-BioLab/continual-learning-regions)|---|
 |2025|`arXiv`|[Policies over Poses: Reinforcement Learning based Distributed Pose-Graph Optimization for Multi-Robot SLAM](https://arxiv.org/pdf/2510.22740)|[![Github stars](https://img.shields.io/github/stars/herolab-uga/policies-over-poses.svg)](https://github.com/herolab-uga/policies-over-poses)|---|
 |2025|`arXiv`|[Real-Time Indoor Object SLAM with LLM-Enhanced Priors](https://arxiv.org/pdf/2509.21602)|---|---|
