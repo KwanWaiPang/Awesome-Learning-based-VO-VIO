@@ -25,7 +25,6 @@ Feel free to share this list with others!
 
 ## Learning-based VO
 
-* Survey for Awesome Learning-based VO and VIO [Blog](https://kwanwaipang.github.io/Learning-based-VO-VIO/)
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
