@@ -18,9 +18,9 @@ Feel free to share this list with others!
 
 - [Learning-based VO](#Learning-based-VO)
 - [Learning-based VIO](#Learning-based-VIO)
-- [Semantic SLAM](#Semantic-SLAM)
 - [Learning-based Inertial Odometry](#Learning-based-Inertial-Odometry)
 - [Learning-based LiDAR Odometry](#Learning-based-LiDAR-Odometry)
+- [Semantic SLAM](#Semantic-SLAM)
 - [Other Related Resource](#Other-Related-Resource)
 
 
@@ -121,15 +121,6 @@ Feel free to share this list with others!
 |2017|`AAAI`|[Vinet: Visual-inertial odometry as a sequence-to-sequence learning problem](https://arxiv.org/pdf/1701.08376)|[![Github stars](https://img.shields.io/github/stars/HTLife/VINet.svg)](https://github.com/HTLife/VINet)|non-official implementation|
 
 
-## Semantic SLAM
-
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`TRO`|[RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation](https://arxiv.org/pdf/2505.15373)|---|[website](https://razer-3d.github.io/)<br>构建开放词汇语义地图|
-
-
 
 ## Learning-based Inertial Odometry
 
@@ -190,6 +181,14 @@ Feel free to share this list with others!
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
+## Semantic SLAM
+
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`TRO`|[RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation](https://arxiv.org/pdf/2505.15373)|---|[website](https://razer-3d.github.io/)<br>构建开放词汇语义地图|
+
 
 
 ## Other Related Resource
@@ -202,7 +201,7 @@ Feel free to share this list with others!
 <!-- * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/) -->
 <!-- * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/) -->
 <!--  * Reproduction and Learning for LOAM Series [Blog](https://blog.csdn.net/gwplovekimi/article/details/119711762?spm=1001.2014.3001.5502) -->
-* Some related papers for learning-based VO,VIO, such as dataset, depth estimation, correspondence learning, etc.
+* Some related papers for learning-based VO, VIO, such as datasets, depth estimation, correspondence learning, etc.
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
