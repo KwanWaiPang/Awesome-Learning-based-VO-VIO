@@ -21,6 +21,7 @@ Feel free to share this list with others!
 - [Learning-based Inertial Odometry](#Learning-based-Inertial-Odometry)
 - [Learning-based LiDAR Odometry](#Learning-based-LiDAR-Odometry)
 - [Semantic SLAM](#Semantic-SLAM)
+- [NeRF SLAM](#NeRF-SLAM)
 - [Other Related Resource](#Other-Related-Resource)
 
 
@@ -187,7 +188,16 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`TRO`|[RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation](https://arxiv.org/pdf/2505.15373)|---|[website](https://razer-3d.github.io/)<br>构建开放词汇语义地图|
+|2025|`TRO`|[RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation](https://arxiv.org/pdf/2505.15373)|---|[website](https://razer-3d.github.io/)<br>构建开放词汇语义地图,FC-CLIP+ConvNeXt,支持560类物体+1306个文本类别|
+
+
+## NeRF SLAM
+* Survey for NeRF-based SLAM：[Blog](https://kwanwaipang.github.io/Awesome-NeRF-SLAM/)
+
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
 
 
 
@@ -195,7 +205,6 @@ Feel free to share this list with others!
 <!-- * Survey for SLAM in Legged Robot：[Paper List](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) -->
 * Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) 
 * Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
-* Survey for NeRF-based SLAM：[Blog](https://kwanwaipang.github.io/Awesome-NeRF-SLAM/)
 * Survey for 3DGS-based SLAM: [Paper List](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM)
 * Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
 <!-- * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/) -->
