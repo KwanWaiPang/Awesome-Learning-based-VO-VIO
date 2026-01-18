@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing Learning-based visual odometry (including both image and event camera), visual-inertial odometry, inertial odometry, LiDAR odometry, etc.
+This repository contains a curated list of resources addressing Learning-based visual odometry (including both image and event camera), visual-inertial odometry, inertial odometry, LiDAR odometry, SLAM, Semantic SLAM, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO/issues/new)**. 
 
