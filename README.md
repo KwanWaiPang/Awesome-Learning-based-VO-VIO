@@ -219,6 +219,7 @@ Feel free to share this list with others!
 * Survey for Transformer-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) 
 * Survey for Diffusion-based SLAM：[Paper List](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) 
 * Survey for 3DGS-based SLAM: [Paper List](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM)
+* Survey for Dynamic SLAM: [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/)
 * Deep learning for image matching lecture [slides](https://cmp.felk.cvut.cz/~mishkdmy/slides/MPV2025_Learned_matching.pdf)
 <!-- * Paper Survey for Degeneracy of LiDAR-SLAM [Blog](https://kwanwaipang.github.io/Lidar_Degeneracy/) -->
 <!-- * Paper Survey for dynamic SLAM [Blog](https://kwanwaipang.github.io/Dynamic-SLAM/) -->
