@@ -190,6 +190,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`RAL`|[SLIM-VDB: A Real-Time 3D Probabilistic Semantic Mapping Framework](https://arxiv.org/pdf/2512.12945)|[![Github stars](https://img.shields.io/github/stars/umfieldrobotics/slim-vdb.svg)](https://github.com/umfieldrobotics/slim-vdb)|---|
 |2025|`TRO`|[RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation](https://arxiv.org/pdf/2505.15373)|---|[website](https://razer-3d.github.io/)<br>构建开放词汇语义地图,FC-CLIP+ConvNeXt,支持560类物体+1306个文本类别|
 
 
