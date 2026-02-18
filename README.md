@@ -190,7 +190,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2026|`RAL`|[SLIM-VDB: A Real-Time 3D Probabilistic Semantic Mapping Framework](https://arxiv.org/pdf/2512.12945)|[![Github stars](https://img.shields.io/github/stars/umfieldrobotics/slim-vdb.svg)](https://github.com/umfieldrobotics/slim-vdb)|---|
+|2026|`RAL`|[SLIM-VDB: A Real-Time 3D Probabilistic Semantic Mapping Framework](https://arxiv.org/pdf/2512.12945)|[![Github stars](https://img.shields.io/github/stars/umfieldrobotics/slim-vdb.svg)](https://github.com/umfieldrobotics/slim-vdb)|利用 OpenVDB 数据结构(用于高效的体素数据存储)，并引入贝叶斯语义融合更新，以实现针对闭集或开集语义的实时、内存高效的语义建图；对于输入的RGB-D或者点云，先通过SAM来做语义分割，然后用TSDF进行表面重建，用统一贝叶斯进行语义融合，对应于开集或闭集语义的截断符号距离值、权重和语义参数存储在OpenVDB数据结构的体素中。|
 |2025|`TRO`|[RAZER: Robust Accelerated Zero-Shot 3D Open-Vocabulary Panoptic Reconstruction with Spatio-Temporal Aggregation](https://arxiv.org/pdf/2505.15373)|---|[website](https://razer-3d.github.io/)<br>构建开放词汇语义地图,FC-CLIP+ConvNeXt,支持560类物体+1306个文本类别|
 
 
