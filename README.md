@@ -32,6 +32,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`CVPR`|[DROID-W: DROID-SLAM in the Wild](https://arxiv.org/pdf/2603.19076)|[![Github stars](https://img.shields.io/github/stars/MoyangLi00/DROID-W.svg)](https://github.com/MoyangLi00/DROID-W)|[website](https://moyangli00.github.io/droid-w/) <br> 不去“显式建模动态物体”，而是通过不确定性建模（uncertainty）自动忽略不可靠区域|
 |2026|`arXiv`|[Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates](https://arxiv.org/pdf/2602.18906)|---|[website](https://marginalizedba.github.io/) <br> 首个将通用单目深度估计（MDE）模型集成到不同尺度的运动恢复结构（SfM）和相机重定位任务中的框架|
 |2026|`arXiv`|[SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings](https://arxiv.org/pdf/2601.09665)|---|基于DPVO，学习patch-level 3D几何表征，通过几何调制注意力（geometry-modulated attention）机制，实现跨时间窗口的尺度一致性（Geometry-Guided Scale Propagation）；通过显式的坐标约束增强重投影优化，将drift拉回到标准的尺度下（Scene Coordinate Bundle Adjustment）；patch 特征从DINOv3获取|
 |2026|`RAL`|[360DVO: Deep Visual Odometry for Monocular 360-Degree Camera](https://arxiv.org/pdf/2601.02309)| [![Github stars](https://img.shields.io/github/stars/chris1004336379/360DVO.svg)](https://github.com/chris1004336379/360DVO)|[website](https://chris1004336379.github.io/360DVO-homepage/)<br>基于深度学习的单目全向视觉里程计框架,畸变感知球面特征提取器(SphereResNet)+全向可微分束调整 (ODBA) 模块|
