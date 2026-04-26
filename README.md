@@ -32,6 +32,7 @@ Feel free to share this list with others!
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates](https://arxiv.org/pdf/2602.18906)|---|[website](https://marginalizedba.github.io/) <br> 首个将通用单目深度估计（MDE）模型集成到不同尺度的运动恢复结构（SfM）和相机重定位任务中的框架|
 |2026|`arXiv`|[SCE-SLAM: Scale-Consistent Monocular SLAM via Scene Coordinate Embeddings](https://arxiv.org/pdf/2601.09665)|---|基于DPVO，学习patch-level 3D几何表征，通过几何调制注意力（geometry-modulated attention）机制，实现跨时间窗口的尺度一致性（Geometry-Guided Scale Propagation）；通过显式的坐标约束增强重投影优化，将drift拉回到标准的尺度下（Scene Coordinate Bundle Adjustment）；patch 特征从DINOv3获取|
 |2026|`RAL`|[360DVO: Deep Visual Odometry for Monocular 360-Degree Camera](https://arxiv.org/pdf/2601.02309)| [![Github stars](https://img.shields.io/github/stars/chris1004336379/360DVO.svg)](https://github.com/chris1004336379/360DVO)|[website](https://chris1004336379.github.io/360DVO-homepage/)<br>基于深度学习的单目全向视觉里程计框架,畸变感知球面特征提取器(SphereResNet)+全向可微分束调整 (ODBA) 模块|
 |2025|`arXiv`|[Vipe: Video pose engine for 3d geometric perception](https://arxiv.org/pdf/2508.10934)|[![Github stars](https://img.shields.io/github/stars/nv-tlabs/vipe.svg)](https://github.com/nv-tlabs/vipe)|[website](https://research.nvidia.com/labs/toronto-ai/vipe/)<br>英伟达开源的，从视频流中估算相机pose与深度；将BA（类似 DROID-SLAM的稠密光流约束）与learning深度估计相结合：语义分割移动物体+DROID-SLAM构建BA约束+单目深度估计网络（Metric3dv2）； RTX 5090，640*480分辨率，3-5HZ|
