@@ -137,6 +137,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[TIO-Former: Ultra-Lightweight 6-Directional ToF-Inertial Odometry for Nano-UAVs via a Streaming Causal Transformer](https://arxiv.org/pdf/2609.17198)|[![Github stars](https://img.shields.io/github/stars/Ly041021/TIO-Former.svg)](https://github.com/Ly041021/TIO-Former)|方法是端到端学习的测距–惯性里程计，骨干为流式因果 Transformer。它用六个正交 8×8 ToF 和 IMU 回归每步 6 自由度相对位姿，并积分成带度量尺度的轨迹。各方向距离先做可靠性门控的帧间差分，编成方向特征；IMU 用交叉注意力按当前运动融合这六个方向；因果 Transformer 再沿时间输出位姿，近期帧保留原缓存，更早历史压进固定容量摘要，使单步计算不随飞行变长而增加。|
 |2026|`RAL`|[X-IONet: Cross-Platform Inertial Odometry Network for Pedestrian and Legged Robot](https://arxiv.org/pdf/2511.08277)|---|跨平台纯IMU惯性里程计（行人+四足）：先用EKF姿态将IMU旋到重力对齐坐标系；再以1D-CNN对窗口做平台二分类（行人/四足），按规则路由到对应平台专家网络；各专家采用受Crossformer启发的双阶段注意力编解码器——时间自注意力建模长程依赖、维度自注意力建模gyro/acc轴间耦合，并分层多尺度特征融合——回归3D位移及其协方差；以Huber-Gaussian损失联合优化位移与不确定性，再将网络量测送入EKF做状态更新以抑制漂移；在RoNIN、GrandTour与自采Go2上验证跨平台有效性|
 |2025|`arXiv`|[AirIO: Learning Inertial Odometry with Enhanced IMU Feature Observability](https://arxiv.org/pdf/2501.15659)|[![Github stars](https://img.shields.io/github/stars/Air-IO/Air-IO.svg)](https://github.com/Air-IO/Air-IO)|[website](https://air-io.github.io/)<br>[Test](https://kwanwaipang.github.io/AirIO/)|
 |2024|`TIV`|[Deep learning for inertial positioning: A survey](https://arxiv.org/pdf/2303.03757)|---|---|
